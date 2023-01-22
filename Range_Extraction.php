@@ -1,3 +1,5 @@
+// <4 kyu> - Range Extraction
+
 <?php
 function pushToStr(&$str, $num){
     if(!$str){
